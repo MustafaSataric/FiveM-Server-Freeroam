@@ -1,0 +1,152 @@
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] [0m[0m[32mScanning resources.[0m
+[38;5;163m[    c-resources-core] [0m[0mResource loading for discordbot failed:
+[38;5;163m[    c-resources-core] [0m[0mCould not open resource metadata file - no such file.
+[38;5;73m[ citizen-server-impl] [0m[0m[32mFound 108 resources.[0m
+[38;5;66m[          svadhesive] [0m[0mAuthenticating server license key...
+[38;5;66m[          svadhesive] [0m[0mServer license key authentication succeeded. Welcome!
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource sessionmanager
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource mapmanager
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for yarn
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource yarn
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for webpack
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource webpack
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for chat
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource chat
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource spawnmanager
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for hardcap
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource hardcap
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pma-voice
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource pma-voice
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for EasyAdmin
+[38;5;128m[    script:EasyAdmin] [0m[0m
+[38;5;128m[    script:EasyAdmin] [0m[0m _______ _______ _______ __   __ _______ ______  _______ _____ __   _
+[38;5;128m[    script:EasyAdmin] [0m[0m |______ |_____| |______   \_/   |_____| |     \ |  |  |   |   | \  |
+[38;5;128m[    script:EasyAdmin] [0m[0m |______ |     | ______|    |    |     | |_____/ |  |  | __|__ |  \_|
+[38;5;128m[    script:EasyAdmin] [0m[0m                           Version [93m7.0[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource EasyAdmin
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource PvP
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for rconlog
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource rconlog
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource loadingscreen
+[38;5;171m[                 cmd] [0m[0mArgument count mismatch (passed 2, wanted 3)
+[38;5;171m[                 cmd] [0m[0mArgument count mismatch (passed 2, wanted 3)
+[38;5;171m[                 cmd] [0m[0mArgument count mismatch (passed 2, wanted 3)
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for mysql-async
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource mysql-async
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for oxmysql
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource oxmysql
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for async
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource async
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cron
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cron
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for es_extended
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource es_extended
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for instance
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource instance
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource skinchanger
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource esx_menu_default
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for esx_identity
+[38;5;131m[ script:esx_identity] [0m[0mError parsing script @esx_identity/server/main.lua in resource esx_identity: @esx_identity/server/main.lua:85: malformed number near '01.01.1999'
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script server/main.lua.
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource esx_identity
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for esx_skin
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource esx_skin
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for esx_multicharacter
+[38;5;188m[script:esx_multichar] [0m[0mError loading script server/main.lua in resource esx_multicharacter: @esx_multicharacter/server/main.lua:208: [93mWARNING: Multicharacter is disabled - please check your ESX configuration[97m
+[38;5;188m[script:esx_multichar] [0m[97mstack traceback:
+[38;5;188m[script:esx_multichar] [0m[97m        [C]: in function 'assert'
+[38;5;188m[script:esx_multichar] [0m[97m        @esx_multicharacter/server/main.lua:208: in main chunk
+[38;5;161m[    c-scripting-core] [0m[97mFailed to load script server/main.lua.
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_multicharacter
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_addonaccount
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_addonaccount
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_addoninventory
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_addoninventory
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_society
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_society
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_billing
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_billing
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_vehicleshop
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_vehicleshop
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_policejob
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_policejob
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_ambulancejob
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_ambulancejob
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_cruisecontrol
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_datastore
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_datastore
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_menu_dialog
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_menu_list
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_optionalneeds
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_optionalneeds
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for cc-chat
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource cc-chat
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_service
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_service
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_sit
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_sit
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for esx_status
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource esx_status
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource rp-radio
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for anticheese-anticheat
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource anticheese-anticheat
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource bob74_ipl
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource RichPresence
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource postal_map
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for aduty
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource aduty
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for fax-revive
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource fax-revive
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for noclip
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource noclip
+[38;5;161m[    c-scripting-core] [0m[97mCreating script environments for mainInterface
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource mainInterface
+[38;5;73m[ citizen-server-impl] [0m[97mStarted resource nui
+[38;5;73m[ citizen-server-impl] [0m[97m[94mAsset admincar/admincharger+hi.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource admincar
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource handling_mod
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for screenshot-basic
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource screenshot-basic
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for JD_logs
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource JD_logs
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource casino_track
+[38;5;73m[ citizen-server-impl] [0m[0mStopping resource sessionmanager
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource sessionmanager
+cfx> (node:31675) ExperimentalWarning: stream/web is an experimental feature. This feature could change at any time
+(Use `FXServer --trace-warnings ...` to show where the warning was created)
+[38;5;73m[ citizen-server-impl] [0m[0mserver thread hitch warning: timer interval of 207 milliseconds
+[38;5;73m[ citizen-server-impl] [0m[0mserver thread hitch warning: timer interval of 263 milliseconds
+[38;5;73m[ citizen-server-impl] [0m[0mserver thread hitch warning: timer interval of 240 milliseconds
+[38;5;159m[  script:mysql-async] [0m[0m[32m[mysql-async] [SUCCESS][0m Database server connection established.
+[38;5;42m[      script:oxmysql] [0m[0m[32mDatabase server connection established![97m
+[38;5;73m[ citizen-server-impl] [0m[97m[91m        fff                          
+[38;5;73m[ citizen-server-impl] [0m[91m[91m  cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91m ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl] [0m[91m                                     [0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mAuthenticated with cfx.re Nucleus: [0mhttps://zap-hosting-7bqd8a.users.cfx.re/
+[38;5;42m[      script:oxmysql] [0m[0m[93m[WARNING] esx_society took 290.399893ms to execute a query!
+[38;5;42m[      script:oxmysql] [0m[93m      SELECT * FROM jobs [][97m
+[38;5;42m[      script:oxmysql] [0m[97m[93m[WARNING] esx_vehicleshop took 301.457503ms to execute a query!
+[38;5;42m[      script:oxmysql] [0m[93m      SELECT * FROM vehicle_categories [][97m
+[38;5;73m[ citizen-server-impl] [0m[97mserver thread hitch warning: timer interval of 307 milliseconds
+[38;5;199m[script:anticheese-an] [0m[97mAntiCheese (anticheese-anticheat) is up to date!
+[38;5;173m[      script:JD_logs] [0m[97mJD_logs unable to check version
+[38;5;42m[      script:oxmysql] [0m[97m[93m[WARNING] esx_datastore took 424.275455ms to execute a query!
+[38;5;42m[      script:oxmysql] [0m[93m      SELECT * FROM datastore_data LEFT JOIN datastore ON datastore_data.name = datastore.name UNION SELECT * FROM datastore_data RIGHT JOIN datastore ON datastore_data.name = datastore.name [][97m
+[38;5;220m[  script:es_extended] [0m[97m[[32mINFO[0m] ESX [36mLegacy[97m initialized
+[38;5;134m[      script:hardcap] [0m[97mConnecting: PJER[0m
+[38;5;134m[      script:hardcap] [0m[0mConnecting: PEJCA ESCO[0m
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[97m] Player [36m"firstname lastname" [97mhas connected to the server. ID: [36m1[0m
+[38;5;159m[  script:mysql-async] [0m[0m[33m[MariaDB:10.3.38-MariaDB-0+deb10u1] [WARNING][0m [esx_skin] [5556ms] SELECT skin FROM users WHERE identifier = ? : ["5cb28090035dcd277e57c7c97211e018a573c7cb"]
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[97m] Player [36m"firstname lastname" [97mhas connected to the server. ID: [36m2[0m
+[38;5;173m[      script:JD_logs] [0m[0m[91mSCRIPT ERROR: @JD_logs/server/server.lua:233: attempt to concatenate a nil value (global 'player1')[0m
+[38;5;173m[      script:JD_logs] [0m[0m[93m> handler[0m ([36m@JD_logs/server/server.lua[0m:233)
+[38;5;173m[      script:JD_logs] [0m[0m[91mSCRIPT ERROR: @JD_logs/server/server.lua:233: attempt to concatenate a nil value (global 'player1')[0m
+[38;5;173m[      script:JD_logs] [0m[0m[93m> handler[0m ([36m@JD_logs/server/server.lua[0m:233)
+[38;5;220m[  script:es_extended] [0m[0m[[32mINFO[0m] Saved 2 players over 0.0 ms
